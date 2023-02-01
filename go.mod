@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/a8m/envsubst v1.3.0
-	github.com/fasthttp/router v1.4.14
+	github.com/fasthttp/router v1.4.16
 	github.com/fatih/color v1.13.0
 	github.com/kami-zh/go-capturer v0.0.0-20171211120116-e492ea43421d
 	github.com/pkg/errors v0.9.1
@@ -12,7 +12,7 @@ require (
 	github.com/prometheus/client_model v0.3.0
 	github.com/stretchr/testify v1.8.1
 	github.com/urfave/cli/v2 v2.24.1
-	github.com/valyala/fasthttp v1.43.0
+	github.com/valyala/fasthttp v1.44.0
 	go.uber.org/automaxprocs v1.5.1
 	go.uber.org/goleak v1.1.11
 	go.uber.org/zap v1.24.0
