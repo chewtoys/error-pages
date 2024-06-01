@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/a8m/envsubst v1.4.2
 	github.com/fasthttp/router v1.5.1
-	github.com/fatih/color v1.16.0
+	github.com/fatih/color v1.17.0
 	github.com/kami-zh/go-capturer v0.0.0-20171211120116-e492ea43421d
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.19.0
