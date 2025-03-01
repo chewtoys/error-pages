@@ -1,9 +1,10 @@
 module gh.tarampamp.am/error-pages
 
 go 1.21
+toolchain go1.24.0
 
 require (
-	github.com/a8m/envsubst v1.4.2
+	github.com/a8m/envsubst v1.4.3
 	github.com/fasthttp/router v1.5.4
 	github.com/fatih/color v1.18.0
 	github.com/kami-zh/go-capturer v0.0.0-20171211120116-e492ea43421d
