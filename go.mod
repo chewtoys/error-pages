@@ -1,8 +1,6 @@
 module gh.tarampamp.am/error-pages
 
 go 1.21
-toolchain go1.24.0
-
 require (
 	github.com/a8m/envsubst v1.4.3
 	github.com/fasthttp/router v1.5.4
@@ -12,7 +10,7 @@ require (
 	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/client_model v0.6.1
 	github.com/stretchr/testify v1.10.0
-	github.com/urfave/cli/v2 v2.27.5
+	github.com/urfave/cli/v2 v2.27.6
 	github.com/valyala/fasthttp v1.58.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/goleak v1.3.0
