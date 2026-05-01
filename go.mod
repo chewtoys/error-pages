@@ -15,7 +15,7 @@ require (
 	github.com/valyala/fasthttp v1.69.0
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/goleak v1.3.0
-	go.uber.org/zap v1.27.1
+	go.uber.org/zap v1.28.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
